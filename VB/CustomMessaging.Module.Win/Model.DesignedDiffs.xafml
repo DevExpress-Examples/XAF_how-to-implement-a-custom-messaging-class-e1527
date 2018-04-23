@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <NavigationItems NavigationStyle="TreeList">
+    <Items>
+      <Item Id="Person" IsNewNode="True" ViewId="Person_ListView" />
+    </Items>
+  </NavigationItems>
+  <Options Messaging="CustomMessaging.Module.Win.CustomWinFormsMessageBoxMessaging" />
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="10.2.3.0" IsNewNode="True" />
+    <SchemaModule Name="SystemWindowsFormsModule" Version="10.2.3.0" IsNewNode="True" />
+  </SchemaModules>
+</Application>
