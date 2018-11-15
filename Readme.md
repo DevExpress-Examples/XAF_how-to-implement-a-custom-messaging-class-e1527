@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomWinFormsMessageBoxMessaging.cs](./CS/CustomMessaging.Module.Win/CustomWinFormsMessageBoxMessaging.cs) (VB: [CustomWinFormsMessageBoxMessaging.vb](./VB/CustomMessaging.Module.Win/CustomWinFormsMessageBoxMessaging.vb))
+* **[CustomXtraMessageBoxMessaging.cs](./CS/CustomMessaging.Module.Win/CustomXtraMessageBoxMessaging.cs) (VB: [CustomXtraMessageBoxMessaging.vb](./VB/CustomMessaging.Module.Win/CustomXtraMessageBoxMessaging.vb))**
+* [Model.DesignedDiffs.xafml](./CS/CustomMessaging.Module.Win/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/CustomMessaging.Module.Win/Model.DesignedDiffs.xafml))
+<!-- default file list end -->
 # How to: Implement a Custom Messaging Class
 
 
