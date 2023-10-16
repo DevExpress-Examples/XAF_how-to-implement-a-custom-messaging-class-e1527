@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Application>
-  <NavigationItems NavigationStyle="TreeList">
-    <Items>
-      <Item Id="Person" IsNewNode="True" ViewId="Person_ListView" />
-    </Items>
-  </NavigationItems>
-  <Options Messaging="CustomMessaging.Module.Win.CustomWinFormsMessageBoxMessaging" />
-</Application>
